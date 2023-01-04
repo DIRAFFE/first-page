@@ -7,7 +7,8 @@ export default function Header() {
     <div className="header">
       <div className="leftHeader">Magic Devour</div>
       <button style={{ background: `url(${header02})` }} className="btnHeader">
-        {<img src={header01} className="btnIcon" />} Connect Wallet
+        {<img src={header01} className="btnIcon" />}
+        <span>Connect Wallet</span>
       </button>
     </div>
   );
