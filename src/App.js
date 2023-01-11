@@ -9,8 +9,9 @@ import React from "react";
 
 const bkgrdStyle = {
   width: "100%",
-  height: "100vh",
+  // height: "100vh",
   backgroundImage: `url(${bkgrd})`,
+  //背景填充
   backgroundSize: "cover",
 };
 
