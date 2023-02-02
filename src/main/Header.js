@@ -9,7 +9,8 @@ export default function Header() {
         // style={{ background: `url(${header02})` }}
         className="btnHeader"
       >
-        {<img src={header01} className="btnIcon" />}
+        {<img alt="icon" src={header01} className="btnIcon" />}
+
         <span>Connect Wallet</span>
       </button>
     </div>

@@ -7,7 +7,10 @@ export default function Main() {
     <div className="main">
       <img src={p1} alt="" className="p1" />
       <div className="p2">
-        <div className="t1">Magic Devour</div>
+        <div className="t1">
+          Magic Devour Magic Devour Magic Devour Magic Devour Magic Devour Magic
+          Devour Magic Devour Magic Devour Magic Devour{" "}
+        </div>
         <div className="t2">
           <img src={t2Icon1} alt="" className="t2Icon" />
           <span className="t2-1">@magicals</span>
@@ -17,15 +20,15 @@ export default function Main() {
           <span className="t2-3">magicdevour.com</span>
         </div>
         <div className="t3">
-          Overpowered magic devoured our bodies. We are cursed... <br />
-          Magic Devour is the first raffle launchpad on Aptos and Sui.
+          Overpowered magic devoured our bodies. We are cursed... Magic Devour
+          is the first raffle launchpad on Aptos and Sui.
         </div>
         <div className="t4">
           <div className="t4Text">Purchase Tickets</div>
           <div className="t4Amount">
             <span className="t4I1">05</span>
-            <span className="t4I2">05</span>
-            <span className="t4I3">05</span>
+            <span className="t4I1">06</span>
+            <span className="t4I1">07</span>
           </div>
         </div>
         <div className="t5">
@@ -51,11 +54,11 @@ export default function Main() {
             <div className="t6Up">1 ATP</div>
             <div className="t6Down">Mint Price</div>
           </div>
-          <div className="t62">
+          <div className="t61">
             <div className="t6Up">3333</div>
             <div className="t6Down">Supply</div>
           </div>
-          <div className="t63">
+          <div className="t61">
             <div className="t6Up">8888</div>
             <div className="t6Down">Tickets Sold</div>
           </div>
